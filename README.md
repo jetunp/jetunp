@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Jetun Patel</h1>
-<h3 align="center">Engineering graduate into Software Development Industy learning new tecnologies and getting better everyday. Worked at Amazon Web Services- CloudFront (CDN) Control Plane team as an SDE-1</h3>
+<h3 align="center">Engineering graduate into Software Development Industy learning new technologies and getting better everyday. Worked at Amazon Web Services- CloudFront (CDN) Control Plane team as an SDE-1</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">Email: <a href=mailto:jetun.jp@gmail.com>jetun.jp@gmail.com</a></p>
