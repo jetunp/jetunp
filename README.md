@@ -6,7 +6,7 @@
 <p align="left">LinkedIn:
 <a href="https://linkedin.com/in/jetunp" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="jetun-patel" height="30" width="40" /></a></p>
 <p aligh="left">CodeWars:
-<a href="https://www.codewars.com/users/jetunp/badges/large" target="blank"><img align="center" src="https://www.codewars.com/users/jetunp/badges/large"   /></a></p>
+<a href="https://www.codewars.com/users/jetunp/badges/small" target="blank"><img align="center" src="https://www.codewars.com/users/jetunp/badges/small"   /></a></p>
 </p>
 
 - 🌱 I’m currently learning about **DevOps** world.
