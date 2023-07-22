@@ -3,7 +3,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">Email: <a href=mailto:jetun.jp@gmail.com>jetun.jp@gmail.com</a></p>
-<p align="left">About Me: <a href="jetunpatel.com">Portfolio</a></p>
+<p align="left">About Me: <a href="https://www.jetunpatel.com">Portfolio</a></p>
 <p align="left">LinkedIn:
 <a href="https://linkedin.com/in/jetunp" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="jetun-patel" height="30" width="40" /></a></p>
 <p aligh="left">CodeWars:
