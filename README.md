@@ -1,8 +1,9 @@
 <h1 align="center">Hi 👋, I'm Jetun Patel</h1>
-<h3 align="center">Engineering graduate into Software Development Industy learning new technologies and getting better everyday. Worked at Amazon Web Services- CloudFront (CDN) Control Plane team as an SDE-1</h3>
+<h3 align="center">Engineering graduate into Software Development Industy learning new technologies and getting better everyday. Worked at <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/amazonaws.svg" alt="aws" height="30" width="40" /> Amazon Web Services- CloudFront (CDN) Control Plane team as an SDE-1</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">Email: <a href=mailto:jetun.jp@gmail.com>jetun.jp@gmail.com</a></p>
+<p align="left">About Me: <a href="jetunpatel.com">Portfolio</a></p>
 <p align="left">LinkedIn:
 <a href="https://linkedin.com/in/jetunp" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="jetun-patel" height="30" width="40" /></a></p>
 <p aligh="left">CodeWars:
